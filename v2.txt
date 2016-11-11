@@ -1,0 +1,12 @@
+32c32
+<   12. http://www.google.pl/search?site=&ie=UTF-8&q=Narodowe+Święto+Niepodległości&oi=ddle&ct=poland-national-day-2016-4794393929187328&hl=pl&sa=X&ved=0ahUKEwjgg4mMq6HQAhXKEiwKHQC0DukQPQgC
+---
+>   12. http://www.google.pl/search?site=&ie=UTF-8&q=Narodowe+Święto+Niepodległości&oi=ddle&ct=poland-national-day-2016-4794393929187328&hl=pl&sa=X&ved=0ahUKEwiE7v-Nq6HQAhUQKywKHZyvD0UQPQgC
+35c35
+<   15. http://www.google.pl/setprefs?sig=0_1zMe8MMcnaFXh5o5nFbBKrbAKfM=&hl=en&source=homepage
+---
+>   15. http://www.google.pl/setprefs?sig=0_7S6ifoD7-HdMKHgEVgKeqKyI1BQ=&hl=en&source=homepage
+40c40
+<   20. http://www.google.pl/setprefdomain?prefdom=US&sig=__6l28N8WNQvtDBjXrL75IsNeMLYI=
+---
+>   20. http://www.google.pl/setprefdomain?prefdom=US&sig=__sdo2xzsLzWYIJWEpv1y64K23Uao=
