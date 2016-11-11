@@ -1,0 +1,119 @@
+0a1,118
+> [1]Time.is
+> 
+>    ____________________
+> 
+> Nie znaleziono dopasowania dla '(deleted url)'
+> 
+>      * Sprawdź, czy nazwa została wpisana bez błędów.
+>      * Spróbuj znaleźć najbliższe miasto, region lub kraj.
+> 
+>    Time.is korzysta z bazy danych [2]Geonames.org Jeśli odkryjesz, że
+>    jakiegoś miejsca brakuje lub lista zawiera błędy, przejdź na stronę
+>    Geonames.org i dokonaj stosownych korekt lub [3]powiadom nas o
+>    problemie.
+> 
+> 
+> 
+>    19:13:02
+> 
+> Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+> wyłączona w przeglądarce.
+> 
+>    piątek, 11 listopada 2016, tydzień 45
+>    [4]Remembrance Day / [5]Veterans Day / [6]Armistice Day /
+>    [7]Independence Day (Poland)
+>    Słońce: ↑ 07:05 ↓ 16:11 (9h 6min) [8]Więcej informacji
+> 
+>    ×
+> 
+> [9]Time.is - dokładny czas w każdej strefie czasowej
+> 
+>      * [10]Dokładny czas teraz
+>      * [11]Czas tutaj i tam
+>      * [12]Strefy czasowe
+>      * [13]Tylko czas
+>      * [14]Kalendarz
+>      * [15]Dźwięk
+>      * [16]Dostosuj
+> 
+>      * [17]Aplikacje
+>      * [18]Widżety
+>      * [19]Aktualności ze strefy czasowej
+>      * [20]Newsletter
+> 
+>      * [21]UTC
+>      * [22]Unix clock
+>      * [23]Unix time converter
+>      * [24]Leap second 2016
+> 
+>      * [25]Informacje
+>      * [26]Kontakt
+> 
+>    Obserwuj nas
+>    [27]Facebook [28]Twitter [29]Google+
+>    [30]Download on the App Store
+>      * [31]Zareklamuj się
+>      * [32]Warunki korzystania
+>      * [33]Polityka prywatności
+> 
+>    Time.is pokazuje dokładny, oficjalny czas atomowy w każdej strefie
+>    czasowej (ponad 7 mln. lokalizacji) w 44 językach.
+>    Dostęp zautomatyzowany jest zabroniony. Wymagana jest obsługa plików
+>    cookie i JavaScriptu.
+>    Copyright © 2009-2016 [34]Digitz.no. Wszelkie prawa zastrzeżone.
+>    [35]English [36]中文 [37]العربية [38]Deutsch [39]español [40]français
+>    [41]हिंदी [42]日本語 [43]português (Brasil) [44]русский [45]&gg; choose
+>    language
+> 
+> References
+> 
+>    Visible links
+>    1. http://time.is/pl/
+>    2. http://www.geonames.org/
+>    3. http://time.is/pl/contact
+>    4. http://en.wikipedia.org/wiki/Remembrance_Day
+>    5. http://en.wikipedia.org/wiki/Veterans_Day
+>    6. http://en.wikipedia.org/wiki/Armistice_Day
+>    7. http://en.wikipedia.org/wiki/Polish_Independence_Day
+>    8. http://time.is/pl/http://time.is/pl/Lower_Silesian_Voivodeship#time_zone
+>    9. http://time.is/
+>   10. http://time.is/pl/
+>   11. http://time.is/pl/compare
+>   12. http://time.is/pl/time_zones
+>   13. http://time.is/pl/just
+>   14. http://time.is/pl/calendar
+>   15. http://time.is/pl/http://time.is/pl/sound
+>   16. http://time.is/pl/customize
+>   17. http://time.is/pl/apps
+>   18. http://time.is/pl/widgets
+>   19. http://time.is/pl/time_zone_news
+>   20. http://time.is/pl/mailing_list
+>   21. http://time.is/pl/UTC
+>   22. http://time.is/pl/Unix_time_now
+>   23. http://time.is/pl/Unix_time_converter
+>   24. http://time.is/pl/leapsecond
+>   25. http://time.is/pl/about
+>   26. http://time.is/pl/contact
+>   27. https://www.facebook.com/exact.time.is
+>   28. https://twitter.com/Time_is
+>   29. https://plus.google.com/+timeis/posts
+>   30. https://itunes.apple.com/app/time.is-exact-time-for-any/id857189816?l=nb&ls=1&mt=8
+>   31. http://time.is/pl/advertise
+>   32. http://time.is/pl/terms_of_use
+>   33. http://time.is/pl/terms_of_use#privacy_policy
+>   34. http://digitz.no/
+>   35. http://time.is/?lang=en
+>   36. http://time.is/?lang=zh
+>   37. http://time.is/?lang=ar
+>   38. http://time.is/?lang=de
+>   39. http://time.is/?lang=es
+>   40. http://time.is/?lang=fr
+>   41. http://time.is/?lang=hi
+>   42. http://time.is/?lang=ja
+>   43. http://time.is/?lang=pt_br
+>   44. http://time.is/?lang=ru
+>   45. http://time.is/languages
+> 
+>    Hidden links:
+>   47. http://time.is/pl/http://time.is/pl/#nav
