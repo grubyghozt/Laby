@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="red">#f44242</color>
+    <color name="magneta">#f442d7</color>
+    <color name="yellow">#f4eb42</color>
+    <color name="cyan">#42f4e8</color>
+    <color name="lime">#b0f442</color>
+    <color name="blue">#0000ff</color>
+    <array name="blockColors">
+        <item>@color/black</item>
+        <item>@color/red</item>
+        <item>@color/magneta</item>
+        <item>@color/yellow</item>
+        <item>@color/cyan</item>
+        <item>@color/lime</item>
+    </array>
+</resources>
+
